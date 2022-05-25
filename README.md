@@ -1,7 +1,9 @@
+### Download Manager x
+
 Download Manager x is not just another download manager
 This software was created to get the maximum and best possible download experience on Windows devices
 
-Features
+**Features**
 
 + Improved download system to speed up downloading 700%
 The file to be downloaded is divided into several sections
