@@ -22,7 +22,7 @@ During a certain period of time or when the device is turned on automatically, t
 
 **How it works**
 
-A special algorithm is used that has been developed to divide the file to be downloaded into parts and download each part individually at a high speed. 
+> We have developed A special algorithm is used to divide the file to be downloaded into parts and download each part individually at a high speed. 
 
 This is a simple explanation of the process
 
