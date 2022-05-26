@@ -22,16 +22,16 @@ During a certain period of time or when the device is turned on automatically, t
 
 **How it works**
 
-> We have developed A special algorithm is used to divide the file to be downloaded into parts and download each part individually at a high speed. 
+We have developed A special algorithm is used to divide the file to be downloaded into parts and download each part individually at a high speed. 
 
 This is a simple explanation of the process
 
 let's say we have a file size of 100 MB
-The Download Manager x creates 10 Internet connections to request the file
-the first connection requests a penalty from the file from 0 to 10 MB
-And the second call asks for a penalty from 10 to 20 MB
-And the third call from 30 to 40 ...
-And so on until the file is requested from 90 to 100 MB
+- [ ] The Download Manager x creates 10 Internet connections to request the file
+- [ ] the first connection requests a penalty from the file from 0 to 10 MB
+- [ ] And the second call asks for a penalty from 10 to 20 MB
+- [ ] And the third call from 30 to 40 ...
+- [ ] And so on until the file is requested from 90 to 100 MB
 
 And when a connection finishes downloading a specific part of the file,
 Download Manager x divides the connection request again and chooses the strongest connection to help the connection if it is weak
