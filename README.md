@@ -18,3 +18,22 @@ During a certain period of time or when the device is turned on automatically, t
 + The Download Manager can identify more than 5,000 types of downloadable files and make it easy for you to put them in folders specific to each category of downloads.
 
 + The ability to download any video in high quality up to 4K and with built-in audio for all the videos that you would like to download from social networking sites or video file sharing sites
+
+
+**How it works**
+
+A special algorithm is used that has been developed to divide the file to be downloaded into parts and download each part individually at a high speed. 
+
+This is a simple explanation of the process
+
+let's say we have a file size of 100 MB
+The Download Manager x creates 10 Internet connections to request the file
+the first connection requests a penalty from the file from 0 to 10 MB
+And the second call asks for a penalty from 10 to 20 MB
+And the third call from 30 to 40 ...
+And so on until the file is requested from 90 to 100 MB
+
+And when a connection finishes downloading a specific part of the file,
+Download Manager x divides the connection request again and chooses the strongest connection to help the connection if it is weak
+And with this method we get the fastest possible download of the file 
+All parts of the file are assembled to get it ready for use
