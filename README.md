@@ -1,4 +1,4 @@
-### Download Manager x
+### Download Manager x (for Windows) ###
 
 Download Manager x is not just another download manager
 This software was created to get the maximum and best possible download experience on Windows devices
