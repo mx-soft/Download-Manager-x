@@ -27,13 +27,17 @@ We have developed A special algorithm is used to divide the file to be downloade
 This is a simple explanation of the process
 
 let's say we have a file size of 100 MB
-- [ ] The Download Manager x creates 10 Internet connections to request the file
-- [ ] the first connection requests a penalty from the file from 0 to 10 MB
-- [ ] And the second call asks for a penalty from 10 to 20 MB
-- [ ] And the third call from 30 to 40 ...
-- [ ] And so on until the file is requested from 90 to 100 MB
+- [x] The Download Manager x creates 10 Internet connections to request the file
+- [x] the first connection requests a penalty from the file from 0 to 10 MB
+- [x] And the second call asks for a penalty from 10 to 20 MB
+- [x] And the third call from 30 to 40 ...
+- [x] And so on until the file is requested from 90 to 100 MB
 
 And when a connection finishes downloading a specific part of the file,
 Download Manager x divides the connection request again and chooses the strongest connection to help the connection if it is weak
 And with this method we get the fastest possible download of the file 
 All parts of the file are assembled to get it ready for use
+
+Download Manager x UI Screenshots
+
+![Download Manager x](https://user-images.githubusercontent.com/11804864/172687399-d28b9e4c-e938-4fcf-9388-50ce6adc9e31.png)
