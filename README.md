@@ -40,4 +40,7 @@ All parts of the file are assembled to get it ready for use
 
 Download Manager x UI Screenshots
 
+![Download Manager x](https://user-images.githubusercontent.com/11804864/173135983-1ec22530-9020-4656-b5f0-d8074730cdb6.png)
+
+
 ![Download Manager x](https://user-images.githubusercontent.com/11804864/172687399-d28b9e4c-e938-4fcf-9388-50ce6adc9e31.png)
