@@ -1,7 +1,7 @@
-### Download Manager x (for Windows) ###
 
-Download Manager x is not just another download manager
-This software was created to get the maximum and best possible download experience on Windows devices
+### Download Manager x (Free version for Windows) ###
+
+Download Manager x is not just another download manager This software was created to get the maximum and best possible download experience on Windows devices
 
 **Features**
 
@@ -38,9 +38,17 @@ Download Manager x divides the connection request again and chooses the stronges
 And with this method we get the fastest possible download of the file 
 All parts of the file are assembled to get it ready for use
 
-Download Manager x UI Screenshots
+**Download Manager x UI Screenshots**
 
 ![Download Manager x](https://user-images.githubusercontent.com/11804864/173135983-1ec22530-9020-4656-b5f0-d8074730cdb6.png)
 
+![2023-02-16_17-05-18](https://user-images.githubusercontent.com/11804864/219448777-ac075cb0-79cd-4b0d-9fc7-baafe9e77420.jpg)
 
-![Download Manager x](https://user-images.githubusercontent.com/11804864/172687399-d28b9e4c-e938-4fcf-9388-50ce6adc9e31.png)
+![2023-02-16_17-07-46](https://user-images.githubusercontent.com/11804864/219448801-8e3f4ee1-9ed6-49b0-8470-a5e8c8c76af3.jpg)
+
+![2023-02-16_17-04-54](https://user-images.githubusercontent.com/11804864/219448931-929d87ac-a0e7-41d8-a531-af990240c197.jpg)
+
+![2023-02-16_17-03-39](https://user-images.githubusercontent.com/11804864/219448769-fb7ac5b6-ab0c-46a5-bb61-0ffb154e1ef4.jpg)
+
+
+![s89-pm-4972-mockup-01](https://user-images.githubusercontent.com/11804864/219448748-c1182564-854d-474f-bbeb-ccc401e319a6.png)
