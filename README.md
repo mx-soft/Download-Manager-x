@@ -42,6 +42,8 @@ All parts of the file are assembled to get it ready for use
 
 ![Download Manager x](https://user-images.githubusercontent.com/11804864/173135983-1ec22530-9020-4656-b5f0-d8074730cdb6.png)
 
+![2023-02-16_17-31-52](https://user-images.githubusercontent.com/11804864/219451078-c4acd05e-35dd-4602-ab8f-f498f99b8710.jpg)
+
 ![2023-02-16_17-05-18](https://user-images.githubusercontent.com/11804864/219448777-ac075cb0-79cd-4b0d-9fc7-baafe9e77420.jpg)
 
 ![2023-02-16_17-07-46](https://user-images.githubusercontent.com/11804864/219448801-8e3f4ee1-9ed6-49b0-8470-a5e8c8c76af3.jpg)
